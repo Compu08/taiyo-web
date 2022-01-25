@@ -1,0 +1,15 @@
+-----------------------------------------------------
+HOW TO START PROYECT WITH REACT IN VISUAL STUDIO CODE
+-----------------------------------------------------
+
+1. File -> Open Folder -> Select Folder for Proyects
+
+2. Terminal -> New Terminal
+
+3. npx create-react-app name-of-proyect-without-spaces
+
+4. cd name-of-proyect-without-spaces
+
+5. npm start (and wait navigator open to start testing)
+
+6. For end testing, go to Terminal and CTRL+C and Y.
